@@ -77,16 +77,6 @@ Essas métricas proporcionaram uma visão abrangente do desempenho dos modelos n
 - RandomForest: O modelo RandomForest foi o mais eficaz entre os três, com um desempenho robusto na predição de BPN. Os atributos sociodemográficos e de pré-natal foram identificados como os mais influentes na aprendizagem do modelo. A idade materna foi consistentemente destacada como o atributo mais importante, com um nível de importância acima de 0.8. Outros atributos, como o tipo de gestação e a escolaridade materna, também apresentaram altos níveis de importância, acima de 0.3.
 A análise dos resultados revelou que a gestação múltipla (gêmeos ou mais) e a idade materna avançada foram fortemente associadas a maiores taxas de BPN. Gestantes adolescentes e aquelas com baixa escolaridade também apresentaram maior frequência de BPN. Os resultados corroboraram a literatura existente, indicando que a idade avançada pode estar associada a complicações durante a gestação, enquanto a gestação múltipla aumenta o risco de complicações obstétricas.
 
-
-
-Nesta seção, deverão ser descritas outras abordagens identificadas na literatura que foram utilizadas para resolver problemas similares ao problema em questão. Para isso, faça uma pesquisa detalhada e identifique, no mínimo, 5 trabalhos que tenham utilizado dados em contexto similares e então: (a) detalhe e contextualize o problema, (b) descreva as principais características do _dataset_ utilizado, (c) detalhe quais abordagens/algoritmos foram utilizados (e seus parâmetros), (d) identifique as métricas de avaliação empregadas, e (e) fale sobre os resultados obtidos. 
-
-> **Links Úteis**:
-> - [Google Scholar](https://scholar.google.com/)
-> - [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)
-> - [Science Direct](https://www.sciencedirect.com/)
-> - [ACM Digital Library](https://dl.acm.org/)
-
 # Descrição do _dataset_ selecionado
 
 O [dataset](https://www.kaggle.com/datasets/tanshihjen/early-stage-diabetes-risk-prediction) compreende dados essenciais sobre sinais e sintomas de indivíduos que apresentam sinais iniciais de diabetes ou estão em risco de desenvolvê-la. As variáveis incluídas no dataset oferecem insights valiosos sobre potenciais indicadores do início da diabetes. O dataset abrange informações diversas, desde detalhes demográficos até sintomas específicos associados à diabetes.
