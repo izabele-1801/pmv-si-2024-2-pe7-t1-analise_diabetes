@@ -54,7 +54,7 @@ Este trabalho se propõe a criar um modelo preditivo para a previsão de diabete
 **(e) Resultados Obtidos:** Os resultados mostraram que não houve correlação significativa entre o gênero dos pacientes e as alterações nos parâmetros hematológicos e bioquímicos. As principais alterações incluíram uma diminuição na hemoglobina (94,12%) e um aumento no RDW (88,24%), com todos os pacientes apresentando níveis elevados de ureia e 82,36% com níveis elevados de creatinina. Esses achados sugerem que, apesar das diferenças conhecidas na prevalência e resposta ao tratamento entre homens e mulheres, as alterações laboratoriais não diferem significativamente entre os gêneros em pacientes com MM de alto risco.
 
 
-### Predição de baixo peso ao nascer utilizando modelos demachine learning
+### Predição de baixo peso ao nascer utilizando modelos de machine learning
 **(a) Detalhamento e Contextualização do Problema:** Dentre as principais causas de morte de recém-nascidos, a World Health Organization(WHO) destaca o Baixo Peso ao Nascer (BPN) como o fator isolado de predominância para a indução desse resultado negativo. A literatura apresenta modelos de machine learning como potenciais ferramentas para auxiliar os profissionais de saúde no prognóstico de diversas doençasda área materno-infantil.
 
 **(b) Descrição das Principais Características do Dataset Utilizado:** O estudo utilizou um conjunto de dados abertos do Sistema de Informações sobre Nascidos Vivos (SINASC), composto por 61 atributos e 400.157 registros, abrangendo os anos de 2018 a 2020, especificamente do estado de Pernambuco. Os atributos do dataset incluem uma variedade de informações relacionadas ao histórico materno, dados sociodemográficos materno-infantil, informações sobre o pré-natal, dados de residência da gestante, detalhes sobre a unidade de saúde, dados de atendimento, informações do recém-nascido, e datas informativas pessoais.
@@ -67,7 +67,7 @@ Este trabalho se propõe a criar um modelo preditivo para a previsão de diabete
 - Sensibilidade: Mede a capacidade do modelo de identificar corretamente os casos de BPN, ou seja, a proporção de verdadeiros positivos em relação ao total de casos positivos reais.
 - Especificidade: Avalia a capacidade do modelo de identificar corretamente os casos de PNN, ou seja, a proporção de verdadeiros negativos em relação ao total de casos negativos reais.
 - f1-score: Métrica que combina precisão e sensibilidade em um único valor, útil para avaliar o desempenho do modelo especialmente em datasets desbalanceados.
-_Area Under the Receiver Operating Characteristic Curve_ (ROC AUC): Representa a habilidade do modelo em distinguir entre as classes BPN e PNN, com uma área maior indicando melhor desempenho na separação das classes.
+- _Area Under the Receiver Operating Characteristic Curve_ (ROC AUC): Representa a habilidade do modelo em distinguir entre as classes BPN e PNN, com uma área maior indicando melhor desempenho na separação das classes.
 Essas métricas proporcionaram uma visão abrangente do desempenho dos modelos na predição de baixo peso ao nascer, ajudando a identificar quais abordagens apresentaram melhor eficácia no contexto analisado.
 
 **(e) Resultados Obtidos:** Os resultados dos modelos baseados em árvores mostraram desempenhos distintos na predição de baixo peso ao nascer (BPN).
