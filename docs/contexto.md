@@ -34,7 +34,28 @@ Nesta seção, deverão ser descritas outras abordagens identificadas na literat
 
 # Descrição do _dataset_ selecionado
 
-Nesta seção, você deverá descrever detalhadamente o _dataset_ selecionado. Lembre-se de informar o link de acesso a ele, bem como, de descrever cada um dos seus atributos (a que se refere, tipo do atributo etc.), se existem atributos faltantes etc.
+O [dataset](https://www.kaggle.com/datasets/tanshihjen/early-stage-diabetes-risk-prediction) compreende dados essenciais sobre sinais e sintomas de indivíduos que apresentam sinais iniciais de diabetes ou estão em risco de desenvolvê-la. As variáveis incluídas no dataset oferecem insights valiosos sobre potenciais indicadores do início da diabetes. O dataset abrange informações diversas, desde detalhes demográficos até sintomas específicos associados à diabetes.
+
+Descrição dos Atributos:
+
+- Age (1-20 a 65): Faixa etária dos indivíduos.
+- Sex (1. Male, 2. Female): Informação de gênero.
+- Polyuria (1. Yes, 2. No): Presença de micção excessiva.
+- Polydipsia (1. Yes, 2. No): Sede excessiva.
+- Sudden Weight Loss (1. Yes, 2. No): Perda de peso abrupta.
+- Weakness (1. Yes, 2. No): Fraqueza generalizada.
+- Polyphagia (1. Yes, 2. No): Fome excessiva.
+- Genital Thrush (1. Yes, 2. No): Presença de candidíase genital.
+- Visual Blurring (1. Yes, 2. No): Visão embaçada.
+- Itching (1. Yes, 2. No): Presença de coceira.
+- Irritability (1. Yes, 2. No): Manifestação de irritabilidade.
+- Delayed Healing (1. Yes, 2. No): Cicatrização lenta.
+- Partial Paresis (1. Yes, 2. No): Perda parcial de movimento voluntário.
+- Muscle Stiffness (1. Yes, 2. No): Presença de rigidez muscular.
+- Alopecia (1. Yes, 2. No): Queda de cabelo.
+- Obesity (1. Yes, 2. No): Presença de obesidade.
+- Class (1. Positive, 2. Negative): Classificação de diabetes.
+
 
 # Canvas analítico
 
