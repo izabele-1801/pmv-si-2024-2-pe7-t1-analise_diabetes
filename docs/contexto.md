@@ -62,7 +62,6 @@ Este trabalho se propõe a criar um modelo preditivo para a previsão de diabete
 **(c) Abordagens/Algoritmos Utilizados (e seus Parâmetros):** Foram utilizados três modelos baseados em árvores: Decision Tree, Adaboost e RandomForest. Antes do treinamento dos modelos, foi realizado o balanceamento dos dados devido à desproporção nas classes, onde 11% dos registros pertenciam à classe minoritária (baixo peso ao nascer, BPN) e 89% à classe majoritária (peso normal ao nascer, PNN). A técnica de Random Undersampling foi aplicada, que consiste em selecionar registros aleatórios da classe majoritária sem reposição, reduzindo-a para a mesma quantidade de dados da classe minoritária. Após o balanceamento, o conjunto de dados foi dividido em 70% para treinamento e 30% para teste.
 
 **(d) Métricas de Avaliação Empregadas:** A avaliação dos modelos preditivos foi realizada com base nas seguintes métricas:
-
 - Acurácia: Medida geral da capacidade do modelo em classificar corretamente os casos de BPN e PNN.
 - Precisão: Avalia a proporção de verdadeiros positivos entre todas as previsões positivas realizadas pelo modelo.
 - Sensibilidade: Mede a capacidade do modelo de identificar corretamente os casos de BPN, ou seja, a proporção de verdadeiros positivos em relação ao total de casos positivos reais.
@@ -104,10 +103,15 @@ Descrição dos Atributos:
 
 # Canvas analítico
 
-Nesta seção, você deverá estruturar o seu Canvas Analítico. O Canvas Analítico tem o papel de registrar a organização das ideias e apresentar o modelo de negócio. O Canvas Analítico deverá ser preenchido integralmente mesmo que você não tenha "tantas certezas".
+O [modelo do Canvas Analítico](https://github.com/ICEI-PUC-Minas-PMV-SI/PesquisaExperimentacao-Template/blob/main/help/Software-Analtics-Canvas-v1.0.pdf) segue esse formato de quadro, para simplicidade da documentação iremos listar cada parte em formato de lista numerada.
 
-> **Links Úteis**:
-> - [Modelo do Canvas Analítico](https://github.com/ICEI-PUC-Minas-PMV-SI/PesquisaExperimentacao-Template/blob/main/help/Software-Analtics-Canvas-v1.0.pdf)
+1. **Question:** Quais fatores clínicos são mais indicativos do risco de desenvolvimento de diabetes, e como podemos prever o risco de diabetes em indivíduos usando esses fatores?
+2. **Datasource:** O conjunto de dados "early_stage_diabetes_risk_prediction" é proveniente do Repositório de Aprendizado de Máquina UCSI, possúi muito parâmetros e a classificação se o paciente possui ou não diabetes, é um bom lugar para começar.
+3. **Heuristic:** Aplicação de modelos de machine learning para identificação dos atributos mais importantes para predição de risco de diabetes.
+4. **Validation:** Esperamos como resultado um modelo capaz de realizar previsão com base na base de dados já catalogada, será feito o treinamento em 70% da base e 30% será reservada para validação.
+5. **Implementation:** Os dados devem ser tratados e normalizados antes de qualquer análise, valores não preenchidos devem ser removidos ou completados baseados na sua relevância, em seguida a base de dados deverá ser separada para treino e validação. As diferentes técnicas planejadas utilizadas devem ser executadas e comparadas.
+6. **Results:** Gráficos e tabelas que mostram o desempenho dos modelos e a importância dos atributos
+7. **Next Steps:** O Aprimoramento do Modelo, considerando novos algoritmos, ajuste fino dos hiperparâmetros e inclusão de dados adicionais para melhorar a precisão e a robustez do modelo.
 
 # Referências
 
