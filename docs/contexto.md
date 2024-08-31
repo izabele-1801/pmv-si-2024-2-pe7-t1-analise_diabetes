@@ -32,9 +32,7 @@ Diante dessa lacuna, este trabalho se propõe a realizar análises estatísticas
 
 ## Público-Alvo
 
-O público alvo da pesquisa é a população em geral que pode usar os fatores de risco de diabetes como práticas a serem evitadas no dia a dia ou como análise própria de quando é nescessário a procura de expecialista para avaliar um possível diagnóstico. Bem como a pesquisa também tem um valor considerável para profissionais de saúde ao evidênciar numéricamente os sintomas que podem ser indicativos de diabetes.
-
-*Este estudo é voltado para grupos que podem se beneficiar da compreensão dos fatores de risco do diabetes tipo 2 e de estratégias de prevenção baseadas em dados. O público-alvo inclui a população em geral, que pode usar as informações sobre fatores de risco como práticas a serem evitadas no dia a dia ou como referência para identificar o momento de procurar um especialista para avaliar um possível diagnóstico. A pesquisa também é valiosa para profissionais de saúde, ao evidenciar numericamente os sintomas e comportamentos que podem ser indicativos de diabetes, auxiliando no diagnóstico precoce e no manejo da doença. Além disso, pesquisadores, formuladores de políticas públicas e organizações de saúde podem aplicar os resultados para melhorar as estratégias de prevenção e intervenção.*
+Este estudo é voltado para grupos que podem se beneficiar da compreensão dos fatores de risco do diabetes tipo 2 e de estratégias de prevenção baseadas em dados. O público-alvo inclui a população em geral, que pode usar as informações sobre fatores de risco como práticas a serem evitadas no dia a dia ou como referência para identificar o momento de procurar um especialista para avaliar um possível diagnóstico. A pesquisa também é valiosa para profissionais de saúde, ao evidenciar numericamente os sintomas e comportamentos que podem ser indicativos de diabetes, auxiliando no diagnóstico precoce e no manejo da doença. Além disso, pesquisadores, formuladores de políticas públicas e organizações de saúde podem aplicar os resultados para melhorar as estratégias de prevenção e intervenção.
 
 ## Estado da arte
 
