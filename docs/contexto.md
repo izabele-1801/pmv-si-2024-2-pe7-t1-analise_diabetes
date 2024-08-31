@@ -1,26 +1,45 @@
 # Introdução
 
-O grupo se propõe a analisar bases de dados bem como literatura analítica relevante para determinar fatores que podem servir de indicativos de alta possibilidade de uma pessoa receber um diagnóstico de diabetes. 
+O diabetes é uma doença crônica de grande relevância para a saúde pública, afetando milhões de pessoas ao redor do mundo. No Brasil, a situação é alarmante: mais de 13 milhões de pessoas convivem com a condição, o que representa 6,9% da população nacional, de acordo com a Sociedade Brasileira de Diabetes (SBD). Embora frequentemente hereditário, o diabetes está fortemente associado a fatores como sobrepeso, sedentarismo, hipertensão e outros hábitos de vida inadequados. Aproximadamente 90% dos casos de diabetes no país são do tipo 2, conforme aponta o Ministério da Saúde, sendo predominantemente causados por estilos de vida não saudáveis.
+
+As complicações decorrentes do diabetes constituem um problema significativo para o sistema de saúde brasileiro. Entre janeiro e agosto de 2023, o Sistema Único de Saúde (SUS) registrou 6.982 amputações de membros inferiores (pernas e pés) relacionadas à doença, resultando em uma média de mais de 28 ocorrências por dia. O diabetes é, segundo a SBD, a principal causa de amputações não traumáticas de membros inferiores no Brasil, superando aquelas causadas por acidentes de trânsito ou de trabalho.
+
+Além disso, o problema do diagnóstico tardio agrava ainda mais a situação. Dados do Previva revelam que metade dos indivíduos diabéticos não adota medidas preventivas simplesmente porque ainda não foram diagnosticados. A falta de um diagnóstico precoce impede o controle eficaz da doença, aumentando o risco de complicações graves, como infarto, derrame cerebral e cegueira.
+
+Diante desse cenário, propomos a análise de bases de dados para identificar fatores que possam indicar uma alta probabilidade de diagnóstico de diabetes, contribuindo para a formulação de estratégias de prevenção e intervenção mais eficazes.
+
 
 ## Problema
 
-Tendo em vista de que uma análise de dados serve somente como sugestão de uma possibilidade de um diagnóstico e não uma afirmação definitiva a análise que o projeto visa fazer tem com objetivo analisar fatores comuns como sintomas e estilos de vida que podem ser sinais estatísticos do desenvolvimento de Diabetes.
+O crescente número de casos de diabetes tipo 2 e suas complicações evidenciam um problema crítico de saúde pública no Brasil, que envolve múltiplos fatores, desde a falta de conscientização e diagnóstico precoce até a adoção de hábitos de vida inadequados. As amputações de membros inferiores causadas pelo diabetes, que ocorrem a uma taxa alarmante, são apenas um exemplo das severas consequências dessa condição quando não controlada adequadamente. A ausência de intervenções preventivas e de um diagnóstico precoce limita a capacidade de resposta do sistema de saúde, resultando em um impacto considerável na qualidade de vida dos indivíduos afetados e em um aumento dos custos para o sistema de saúde.
+
+Diante desse cenário, é essencial realizar análises detalhadas de bases de dados e revisões de literatura especializada para identificar fatores que possam servir como indicadores de risco elevado para o diagnóstico de diabetes. Com isso, será possível desenvolver estratégias de prevenção e intervenção mais eficazes, contribuindo para a redução da incidência de novos casos, a minimização das complicações associadas e a promoção de uma melhor qualidade de vida para a população.
 
 ## Questão de pesquisa
 
-O projeto busca evidenciar quais são os fatores que contribuem para o desenvolvimento de diabetes.
+O projeto busca evidenciar quais são os fatores que contribuem para o desenvolvimento de diabetes.?
+
+*** Quais são os principais fatores que contribuem para o desenvolvimento de diabetes no Brasil, e como esses fatores podem ser identificados para melhorar as estratégias de prevenção e intervenção? Além disso, como um formulário que identifica hábitos e sintomas comuns entre portadores de diabetes tipo 2 pode ser utilizado como uma ferramenta de alerta, ajudando os indivíduos a reconhecerem comportamentos de risco e a buscarem orientação médica para um possível diagnóstico precoce da doença?****
+
 
 ## Objetivos preliminares
 
-Para evidênciar os fatores de risco iremos reunir e analisar uma bases de dados sobre sintomas e estilo de vida de portadores de diabetes para achar pontos em comun e estabelecer quais são os fatores que mais se repetem bem como estabelecer uma escala de grais de risco para cada fator.
+Evidenciar os fatores de risco associados ao desenvolvimento de diabetes por meio da reunião e análise de bases de dados sobre sintomas e estilos de vida de portadores da doença. A partir dessa análise, buscar identificar pontos em comum e determinar quais fatores se repetem com maior frequência, bem como desenvolver uma escala de graus de risco para cada fator, de modo a auxiliar na formulação de estratégias de prevenção e diagnóstico precoce.
 
 ## Justificativa
 
 O trabalho se basea na falta de conhecimento ciêntifico para explicar de maneira precisa e biológica o desenvolvimento e o caráter crônico da Diabetes. Diante desse fato faz nescessário o uso de análises estatísticas para determinar fatores de risco que devem ser evitados para a prevênção dessa doênça que não tem claridade nas causas, no desenvolvimento e nem uma cura.
 
+
+**O diabetes, especialmente o tipo 2, representa um dos principais desafios de saúde pública no Brasil e no mundo. Embora existam muitos estudos sobre a doença, ainda há uma falta de conhecimento científico claro que explique de maneira precisa os mecanismos biológicos de seu desenvolvimento e sua progressão como uma condição crônica. Sem uma compreensão detalhada de suas causas e fatores de risco, torna-se difícil estabelecer estratégias efetivas de prevenção e intervenção.
+
+Diante dessa lacuna, este trabalho se propõe a realizar análises estatísticas aprofundadas de dados sobre sintomas e estilos de vida de indivíduos com diabetes. O objetivo é identificar padrões e fatores que se repetem com maior frequência entre os portadores da doença, permitindo a criação de uma escala de graus de risco. Isso pode ajudar a esclarecer quais hábitos e condições de vida estão mais associados ao desenvolvimento do diabetes tipo 2 e, consequentemente, auxiliar na elaboração de diretrizes de prevenção que sejam mais eficazes e baseadas em evidências. Compreender esses fatores é essencial para reduzir a incidência da doença, melhorar a qualidade de vida dos pacientes e otimizar os recursos no sistema de saúde.**
+
 ## Público-Alvo
 
 O público alvo da pesquisa é a população em geral que pode usar os fatores de risco de diabetes como práticas a serem evitadas no dia a dia ou como análise própria de quando é nescessário a procura de expecialista para avaliar um possível diagnóstico. Bem como a pesquisa também tem um valor considerável para profissionais de saúde ao evidênciar numéricamente os sintomas que podem ser indicativos de diabetes.
+
+*Este estudo é voltado para grupos que podem se beneficiar da compreensão dos fatores de risco do diabetes tipo 2 e de estratégias de prevenção baseadas em dados. O público-alvo inclui a população em geral, que pode usar as informações sobre fatores de risco como práticas a serem evitadas no dia a dia ou como referência para identificar o momento de procurar um especialista para avaliar um possível diagnóstico. A pesquisa também é valiosa para profissionais de saúde, ao evidenciar numericamente os sintomas e comportamentos que podem ser indicativos de diabetes, auxiliando no diagnóstico precoce e no manejo da doença. Além disso, pesquisadores, formuladores de políticas públicas e organizações de saúde podem aplicar os resultados para melhorar as estratégias de prevenção e intervenção.*
 
 ## Estado da arte
 
