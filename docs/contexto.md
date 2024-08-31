@@ -17,9 +17,7 @@ Diante desse cenário, é essencial realizar análises detalhadas de bases de da
 
 ## Questão de pesquisa
 
-O projeto busca evidenciar quais são os fatores que contribuem para o desenvolvimento de diabetes.?
-
-*** Quais são os principais fatores que contribuem para o desenvolvimento de diabetes no Brasil, e como esses fatores podem ser identificados para melhorar as estratégias de prevenção e intervenção? Além disso, como um formulário que identifica hábitos e sintomas comuns entre portadores de diabetes tipo 2 pode ser utilizado como uma ferramenta de alerta, ajudando os indivíduos a reconhecerem comportamentos de risco e a buscarem orientação médica para um possível diagnóstico precoce da doença?****
+ Quais são os principais fatores que contribuem para o desenvolvimento de diabetes no Brasil, e como esses fatores podem ser identificados para melhorar as estratégias de prevenção e intervenção? Além disso, como um formulário que identifica hábitos e sintomas comuns entre portadores de diabetes tipo 2 pode ser utilizado como uma ferramenta de alerta, ajudando os indivíduos a reconhecerem comportamentos de risco e a buscarem orientação médica para um possível diagnóstico precoce da doença?
 
 
 ## Objetivos preliminares
@@ -28,12 +26,9 @@ Evidenciar os fatores de risco associados ao desenvolvimento de diabetes por mei
 
 ## Justificativa
 
-O trabalho se basea na falta de conhecimento ciêntifico para explicar de maneira precisa e biológica o desenvolvimento e o caráter crônico da Diabetes. Diante desse fato faz nescessário o uso de análises estatísticas para determinar fatores de risco que devem ser evitados para a prevênção dessa doênça que não tem claridade nas causas, no desenvolvimento e nem uma cura.
+O diabetes, especialmente o tipo 2, representa um dos principais desafios de saúde pública no Brasil e no mundo. Embora existam muitos estudos sobre a doença, ainda há uma falta de conhecimento científico claro que explique de maneira precisa os mecanismos biológicos de seu desenvolvimento e sua progressão como uma condição crônica. Sem uma compreensão detalhada de suas causas e fatores de risco, torna-se difícil estabelecer estratégias efetivas de prevenção e intervenção.
 
-
-**O diabetes, especialmente o tipo 2, representa um dos principais desafios de saúde pública no Brasil e no mundo. Embora existam muitos estudos sobre a doença, ainda há uma falta de conhecimento científico claro que explique de maneira precisa os mecanismos biológicos de seu desenvolvimento e sua progressão como uma condição crônica. Sem uma compreensão detalhada de suas causas e fatores de risco, torna-se difícil estabelecer estratégias efetivas de prevenção e intervenção.
-
-Diante dessa lacuna, este trabalho se propõe a realizar análises estatísticas aprofundadas de dados sobre sintomas e estilos de vida de indivíduos com diabetes. O objetivo é identificar padrões e fatores que se repetem com maior frequência entre os portadores da doença, permitindo a criação de uma escala de graus de risco. Isso pode ajudar a esclarecer quais hábitos e condições de vida estão mais associados ao desenvolvimento do diabetes tipo 2 e, consequentemente, auxiliar na elaboração de diretrizes de prevenção que sejam mais eficazes e baseadas em evidências. Compreender esses fatores é essencial para reduzir a incidência da doença, melhorar a qualidade de vida dos pacientes e otimizar os recursos no sistema de saúde.**
+Diante dessa lacuna, este trabalho se propõe a realizar análises estatísticas aprofundadas de dados sobre sintomas e estilos de vida de indivíduos com diabetes. O objetivo é identificar padrões e fatores que se repetem com maior frequência entre os portadores da doença, permitindo a criação de uma escala de graus de risco. Isso pode ajudar a esclarecer quais hábitos e condições de vida estão mais associados ao desenvolvimento do diabetes tipo 2 e, consequentemente, auxiliar na elaboração de diretrizes de prevenção que sejam mais eficazes e baseadas em evidências. Compreender esses fatores é essencial para reduzir a incidência da doença, melhorar a qualidade de vida dos pacientes e otimizar os recursos no sistema de saúde.
 
 ## Público-Alvo
 
