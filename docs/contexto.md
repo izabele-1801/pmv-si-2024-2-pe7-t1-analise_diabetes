@@ -94,7 +94,7 @@ O [dataset](https://www.kaggle.com/datasets/tanshihjen/early-stage-diabetes-risk
 
 Descrição dos Atributos:
 
-- Age (1-20 a 65): Faixa etária dos indivíduos.
+- Age (1-20 a 65): Faixa etária dos indivíduos. Sendo de 01 a 20 diabetes do tipo 1 e as demais idades do tipo 2.
 - Sex (1. Male, 2. Female): Informação de gênero.
 - Polyuria (1. Yes, 2. No): Presença de micção excessiva.
 - Polydipsia (1. Yes, 2. No): Sede excessiva.
