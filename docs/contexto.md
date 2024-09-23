@@ -130,8 +130,14 @@ O [modelo do Canvas Analítico](https://github.com/ICEI-PUC-Minas-PMV-SI/Pesquis
 - MORAIS, Flávio Leandro de; NERI, Ana Beatriz Torres; ROCHA, Elisson da Silva; MELLO, Maria Eduarda Ferro de; TEXEIRA, Igor Vitor; LYNN, Theo; ENDO, Patricia Takako. Predição de baixo peso ao nascer utilizando modelos de machine learning. Universidade de Pernambuco (UPE). Disponível em: https://research.ebsco.com/c/6hyen5/viewer/pdf/ch27syuvyz. Acesso em: 28 ago. 2024.
 - BARRETO, I. V.; NOGUEIRA, B. M. D.; PESSOA, F. M. C. P.; GADELHA, R. B.; MACHADO, A. K. C.; RIBEIRO, R. M.; MOREIRA, A. P. L.; MORAES, M. E. A.; FILHO, M. O. M.; MOREIRA-NUNES, C. S. Análise de dados hematológicos e bioquímicos em pacientes com mieloma múltiplo de alto risco atendidos no Hospital Geral de Fortaleza, Ceará. Journal of Hematology & Oncology, v. 2, n. 6, p. 1-11, 2023. Disponível em: https://www.sciencedirect.com/science/article/pii/S2531137923009707. Acesso em: 28 ago. 2024.
 - MARCHETTI, Victor Hugo Ovani; DALMASCHIO, Maria Eugênia Pedruzzi; SANTOS, Tatiani Bellettini dos; PANDINI, Eduardo Toffoli. Capacidade preditiva do modelo random forest para óbito em pacientes com COVID-19: Uma análise de dados no contexto da pandemia. Journal of Data Science and Epidemiology, v. 4, n. 2, p. 123-135, 2023. Disponível em: https://www.sciencedirect.com/science/article/pii/S1413867023001605. Acesso em: 28 ago. 2024.
+- PREVIVA. Diagnóstico Precoce do Diabetes. Disponível em: https://www.previva.com.br/novosite/diagnosticoprecocedodiabetes/. Acesso em: 1 set. 2024.
+- AGÊNCIA BRASIL. Diabetes é responsável por mais de 28 amputações por dia no Brasil. Disponível em: https://agenciabrasil.ebc.com.br/saude/noticia/2023-11/diabetes-e-responsavel-por-mais-de-28-amputacoes-por-dia-no-brasil. Acesso em: 1 set. 2024.
+- BRASIL. Ministério da Saúde. Diabetes. Disponível em: https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/diabetes. Acesso em: 1 set. 2024.
 
 <!-- https://www.sciencedirect.com/science/article/pii/S1413867023001605 -->
 <!-- https://www.sciencedirect.com/science/article/pii/S2531137923009707 -->
 <!-- https://research.ebsco.com/c/6hyen5/viewer/pdf/ch27syuvyz -->
+<!-- https://www.previva.com.br/novosite/diagnosticoprecocedodiabetes/ -->
+<!-- https://agenciabrasil.ebc.com.br/saude/noticia/2023-11/diabetes-e-responsavel-por-mais-de-28-amputacoes-por-dia-no-brasil -->
+<!-- https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/diabetes -->
 
