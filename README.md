@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# TÍTULO DO PROJETO.
 
 `CURSO: Sistemas de Informação`
 
